@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 💪 Building > Talking
-🔭 I’m currently working on building production-level Android applications using Kotlin and Jetpack Compose  <br>🌱 I’m currently learning system design, backend integration, and scalable app architecture  <br>💬 Ask me about Android development, Jetpack Compose, REST APIs, and project structuring  <br>⚡ Fun fact: I learn best by building real projects and fixing my own mistakes<br>
+🔭 I’m currently working on building production-level Android applications using Kotlin, Jetpack Compose and Java <br>🌱 I’m currently learning system design, backend integration, and scalable app architecture  <br>💬 Ask me about Android development, Jetpack Compose, REST APIs, and project structuring  <br>⚡ Fun fact: I learn best by building real projects and fixing my own mistakes<br>
 
 
 ## 🌐 Socials:
