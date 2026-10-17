@@ -1,26 +1,95 @@
-# 💫 About Me:
-### 💪 Building > Talking
-### 🚀 Android dev by day, bug debugger by night—coffee addict always ☕
-🔭 I’m currently working on building production-level Android applications using Kotlin, Jetpack Compose and Java  <br>🌱 I’m currently learning system design, backend integration, and scalable app architecture  <br>💬 Ask me about Android development, Jetpack Compose, Spring Boot, REST APIs, and project structuring  <br>⚡ Fun fact: I learn best by building real projects and fixing my own mistakes<br>
+<div align="center">
 
+<img src="assets/hero.svg" width="100%" alt="Kumar Harsh Raj — Android engineer and backend developer. MVVM on the screen, microservices behind the scenes.">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-harsh-raj/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.kumarharshraj@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harsh181507&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harsh181507&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh181507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/kumar-harsh-raj"><img src="https://img.shields.io/badge/LinkedIn-kumar--harsh--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/Harsh_01815/"><img src="https://img.shields.io/badge/LeetCode-Harsh__01815-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="mailto:dev.kumarharshraj@gmail.com"><img src="https://img.shields.io/badge/Email-dev.kumarharshraj-E3B04B?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+<img src="https://komarev.com/ghpvc/?username=Harsh181507&label=Profile%20views&color=E3B04B&style=for-the-badge" alt="Profile views">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harsh181507&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Harsh181507&icon=0&color=0)](https://visitcount.itsvg.in)
+## ⚡ About me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="assets/terminal.svg" width="100%" alt="whoami: Kumar Harsh Raj, CS undergrad at VIT-AP, CGPA 8.11, class of 2027. Experience: SDE Intern at Fin Tradify (Jun 2025 – Jan 2026) — 2 production Android apps on Google Play, 12 Compose screens, 18 REST APIs, about 15% fewer crashes. Achievements: Polyversity Hackathon winner (All India), Lead of the CSI Development Team at VIT-AP.">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 On the screen</h3>
+      Native Android with <b>Kotlin</b> and <b>Jetpack Compose</b> — MVVM, clean architecture, Hilt, Coroutines and Flow, Room for offline-first apps. Shipped to the Play Store and kept crash-free with Crashlytics, Sentry and LeakCanary.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Behind the scenes</h3>
+      <b>Spring Boot</b> services that hold up under load — JWT security, PostgreSQL, Kafka event streams, gRPC between services, an API gateway, and AWS infrastructure as code with CDK on ECS Fargate.
+    </td>
+  </tr>
+</table>
+
+## 🚀 Featured work
+
+<table>
+  <tr>
+    <td><a href="https://github.com/Harsh181507/CSIeventsApp"><img src="assets/card-csi-events-app.svg" width="100%" alt="CSI Events — the Android event app CSI VIT-AP runs its hackathons on"></a></td>
+    <td><a href="https://github.com/Harsh181507/csieventmangement"><img src="assets/card-csi-events-api.svg" width="100%" alt="CSI Events API — Spring Boot backend"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Harsh181507/patient-management-microservices"><img src="assets/card-patient-microservices.svg" width="100%" alt="Patient Management — Spring Boot microservices with Kafka, gRPC and AWS"></a></td>
+    <td><a href="https://github.com/Harsh181507/fact-knowledge-layer"><img src="assets/card-fact-knowledge-layer.svg" width="100%" alt="Fact Knowledge Layer — LLM fact extraction from PDFs"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Harsh181507/indo-thai-order-position"><img src="assets/card-order-position.svg" width="100%" alt="Order and Position Engine — Spring Boot streaming services"></a></td>
+    <td><a href="https://github.com/Harsh181507/Tomato-Hackathon"><img src="assets/card-tomato.svg" width="100%" alt="Tomato — hackathon food-delivery platform"></a></td>
+  </tr>
+</table>
+
+## 🧰 Tech stack
+
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js&theme=dark" alt="Kotlin, Java, C++, JavaScript"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Android</b></td>
+    <td><img src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle&theme=dark" alt="Android Studio, Firebase, Gradle"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,kafka,postgres,mysql,mongodb,redis,maven&theme=dark" alt="Spring, Kafka, PostgreSQL, MySQL, MongoDB, Redis, Maven"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux&theme=dark" alt="AWS, Docker, Kubernetes, GitHub Actions, Linux"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,idea,postman,figma&theme=dark" alt="Git, GitHub, IntelliJ IDEA, Postman, Figma"></td>
+  </tr>
+</table>
+
+<sub>Also: Jetpack Compose · Hilt · Retrofit · Room · Coroutines &amp; Flow · Spring Cloud Gateway · gRPC · JWT · AWS CDK · ECS Fargate · LocalStack · JUnit</sub>
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh181507&show_icons=true&hide_border=false&bg_color=0B0B0D&title_color=E3B04B&icon_color=E3B04B&text_color=F3F1EA&border_color=2A2A31&ring_color=E3B04B&border_radius=14" alt="GitHub stats">
+<img height="170" src="https://streak-stats.demolab.com?user=Harsh181507&background=0B0B0D&border=2A2A31&stroke=2A2A31&ring=E3B04B&fire=E3B04B&currStreakNum=F3F1EA&sideNums=F3F1EA&currStreakLabel=E3B04B&sideLabels=B9B5AA&dates=6B6860&border_radius=14" alt="GitHub streak">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh181507&layout=compact&hide_border=false&bg_color=0B0B0D&title_color=E3B04B&text_color=F3F1EA&border_color=2A2A31&border_radius=14&langs_count=6" alt="Top languages">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh181507/Harsh181507/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh181507/Harsh181507/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/Harsh181507/Harsh181507/output/snake-dark.svg" width="100%" alt="A gold snake eating my contribution graph">
+</picture>
+
+</div>
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — let's build something">
