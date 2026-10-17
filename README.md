@@ -1,90 +1,56 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
+  <img src="assets/masthead-light.svg" width="100%" alt="Kumar Harsh Raj. Android engineer and backend developer. I build apps in Kotlin and Compose, and the Spring Boot services behind them.">
+</picture>
 
-<img src="assets/v2/hero.svg" width="100%" alt="Kumar Harsh Raj — Android engineer and backend developer. MVVM on the screen, microservices behind the scenes.">
+<p align="right">
+  <a href="mailto:dev.kumarharshraj@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/kumar-harsh-raj">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Harsh_01815/">LeetCode</a>
+</p>
 
-<br>
+### About
 
-<a href="https://www.linkedin.com/in/kumar-harsh-raj"><img src="https://img.shields.io/badge/LinkedIn-kumar--harsh--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://leetcode.com/u/Harsh_01815/"><img src="https://img.shields.io/badge/LeetCode-Harsh__01815-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-<a href="mailto:dev.kumarharshraj@gmail.com"><img src="https://img.shields.io/badge/Email-dev.kumarharshraj-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+I like owning a feature from end to end — the Compose screen, the API it calls, and the table underneath it.
 
+As an SDE intern at **Fin Tradify** I worked on two production Android apps on Google Play: twelve Compose screens, eighteen API integrations, an offline-first data layer with Room, and about 15% fewer crashes by the time I left. These days I lead the development team at **CSI VIT-AP**, where our app, [CSI Events](https://github.com/Harsh181507/CSIeventsApp), runs the chapter's hackathons.
 
-<img src="assets/v2/marquee.svg" width="100%" alt="Kotlin, Jetpack Compose, Spring Boot, Kafka, gRPC, AWS, Docker, Kubernetes, PostgreSQL and more">
+### History
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/history-dark.svg">
+  <img src="assets/history-light.svg" width="100%" alt="Career history as a git log: B.Tech CSE at VIT-AP; first Compose apps; SDE intern at Fin Tradify (Jun 2025 – Jan 2026), two Android apps shipped to Google Play; patient management microservices; lead of the CSI Development Team; CSI Events in use at CSI VIT-AP; graduating in 2027.">
+</picture>
 
-<img src="assets/v2/title-about.svg" width="100%" alt="About me">
+### Selected work
 
-<img src="assets/v2/terminal.svg" width="100%" alt="whoami: Kumar Harsh Raj, CS undergrad at VIT-AP, CGPA 8.11, class of 2027. Experience: SDE Intern at Fin Tradify (Jun 2025 – Jan 2026) — 2 production Android apps on Google Play, 12 Compose screens, 18 REST APIs, about 15% fewer crashes. Lead of the CSI Development Team at VIT-AP.">
+| Project | What it is | Built with |
+|---|---|---|
+| **[CSI Events](https://github.com/Harsh181507/CSIeventsApp)** · [API](https://github.com/Harsh181507/csieventmangement) | The event app CSI VIT-AP runs its hackathons on: teams join with a code, judges score from their phones, results go live when the organizer publishes them. | Kotlin, Compose, Spring Boot, PostgreSQL |
+| **[Patient Management](https://github.com/Harsh181507/patient-management-microservices)** | Five Spring Boot services behind a JWT gateway. Kafka carries events to analytics, billing talks gRPC, and AWS CDK deploys it all to ECS Fargate. | Spring Cloud, Kafka, gRPC, AWS |
+| **[Fact Knowledge Layer](https://github.com/Harsh181507/fact-knowledge-layer)** | Reads PDFs, pulls out facts with an LLM along with the exact quote behind each one, and flags where documents agree or contradict. | Java, LLM |
+| **[Order & Position Engine](https://github.com/Harsh181507/indo-thai-order-position)** | Two services for streaming orders and real-time net positions — idempotent, throttled and safe under concurrency. | Spring Boot |
+| **[Tomato](https://github.com/Harsh181507/Tomato-Hackathon)** | A food-delivery platform built at a hackathon: Android app and backend in one push. | Kotlin, Compose, Spring Boot |
 
-<img src="assets/v2/title-skills.svg" width="100%" alt="Skills universe">
+### Toolbox
 
-<img src="assets/v2/orbit.svg" width="100%" alt="Skills universe — Android: Kotlin, Compose, Hilt, Room, Flow. Backend: Spring Boot, Kafka, gRPC, PostgreSQL, JWT, API gateway. Cloud: AWS, Docker, Kubernetes, CDK, GitHub Actions, Linux.">
+**Android** — Kotlin, Jetpack Compose, MVVM, Hilt, Retrofit, Room, Coroutines and Flow, Firebase<br>
+**Backend** — Java, Spring Boot, Spring Cloud Gateway, Spring Security, Kafka, gRPC, PostgreSQL<br>
+**Cloud** — AWS (CDK, ECS Fargate, RDS, MSK), Docker, Kubernetes, GitHub Actions, LocalStack<br>
+**Practice** — clean architecture, REST and event-driven design, code review, JUnit
 
-<img src="assets/v2/title-work.svg" width="100%" alt="Featured work">
+### Activity
 
-<table>
-  <tr>
-    <td><a href="https://github.com/Harsh181507/CSIeventsApp"><img src="assets/v2/card-csi-events-app.svg" width="100%" alt="CSI Events — the Android event app CSI VIT-AP runs its hackathons on"></a></td>
-    <td><a href="https://github.com/Harsh181507/csieventmangement"><img src="assets/v2/card-csi-events-api.svg" width="100%" alt="CSI Events API — Spring Boot backend"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Harsh181507/patient-management-microservices"><img src="assets/v2/card-patient-microservices.svg" width="100%" alt="Patient Management — Spring Boot microservices with Kafka, gRPC and AWS"></a></td>
-    <td><a href="https://github.com/Harsh181507/fact-knowledge-layer"><img src="assets/v2/card-fact-knowledge-layer.svg" width="100%" alt="Fact Knowledge Layer — LLM fact extraction from PDFs"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Harsh181507/indo-thai-order-position"><img src="assets/v2/card-order-position.svg" width="100%" alt="Order and Position Engine — Spring Boot streaming services"></a></td>
-    <td><a href="https://github.com/Harsh181507/Tomato-Hackathon"><img src="assets/v2/card-tomato.svg" width="100%" alt="Tomato — hackathon food-delivery platform"></a></td>
-  </tr>
-</table>
-
-<details>
-<summary><b>🧰 Full tech stack</b></summary>
-<br>
-
-<table>
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js&theme=dark" alt="Kotlin, Java, C++, JavaScript"></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Android</b></td>
-    <td><img src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle&theme=dark" alt="Android Studio, Firebase, Gradle"></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,kafka,postgres,mysql,mongodb,redis,maven&theme=dark" alt="Spring, Kafka, PostgreSQL, MySQL, MongoDB, Redis, Maven"></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,linux&theme=dark" alt="AWS, Docker, Kubernetes, GitHub Actions, Linux"></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,idea,postman,figma&theme=dark" alt="Git, GitHub, IntelliJ IDEA, Postman, Figma"></td>
-  </tr>
-</table>
-
-<sub>Also: Jetpack Compose · Hilt · Retrofit · Room · Coroutines &amp; Flow · Spring Cloud Gateway · gRPC · JWT · AWS CDK · ECS Fargate · LocalStack · JUnit</sub>
-
-</details>
-
-<img src="assets/v2/title-stats.svg" width="100%" alt="GitHub activity">
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh181507&show_icons=true&hide_border=false&bg_color=0A0F1C&title_color=22D3EE&icon_color=818CF8&text_color=E6EDF7&border_color=1F2A44&ring_color=22D3EE&border_radius=14" alt="GitHub stats">
-<img height="170" src="https://streak-stats.demolab.com?user=Harsh181507&background=0A0F1C&border=1F2A44&stroke=1F2A44&ring=22D3EE&fire=818CF8&currStreakNum=E6EDF7&sideNums=E6EDF7&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=5B6B82&border_radius=14" alt="GitHub streak">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh181507&layout=compact&hide_border=false&bg_color=0A0F1C&title_color=22D3EE&text_color=E6EDF7&border_color=1F2A44&border_radius=14&langs_count=6" alt="Top languages">
-
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Harsh181507&show_icons=true&hide_border=true&bg_color=0F1115&title_color=ECEAE4&icon_color=FF6B45&text_color=A3A1A8&ring_color=FF6B45">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Harsh181507&show_icons=true&hide_border=true&bg_color=FBFAF7&title_color=16161A&icon_color=E5502E&text_color=5F5E66&ring_color=E5502E" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Harsh181507&hide_border=true&background=0F1115&ring=FF6B45&fire=FF6B45&currStreakNum=ECEAE4&sideNums=ECEAE4&currStreakLabel=FF6B45&sideLabels=A3A1A8&dates=6C6B73&stroke=262830">
+  <img height="160" src="https://streak-stats.demolab.com?user=Harsh181507&hide_border=true&background=FBFAF7&ring=E5502E&fire=E5502E&currStreakNum=16161A&sideNums=16161A&currStreakLabel=E5502E&sideLabels=5F5E66&dates=9A99A1&stroke=E4E2DC" alt="Contribution streak">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh181507/Harsh181507/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh181507/Harsh181507/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/Harsh181507/Harsh181507/output/snake-dark.svg" width="100%" alt="A snake eating my contribution graph">
+  <img src="https://raw.githubusercontent.com/Harsh181507/Harsh181507/output/snake-light.svg" width="100%" alt="A snake eating my contribution graph">
 </picture>
-
-</div>
-
-<img src="assets/v2/footer.svg" width="100%" alt="Thanks for stopping by — let's build something">
