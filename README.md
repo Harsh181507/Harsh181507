@@ -13,15 +13,15 @@
 
 </div>
 
-<img src="assets/h-about.svg" width="100%" alt="About me">
+<img src="assets/title-about.svg" width="100%" alt="About me">
 
 <img src="assets/terminal.svg" width="100%" alt="whoami: Kumar Harsh Raj, CS undergrad at VIT-AP, CGPA 8.11, class of 2027. Experience: SDE Intern at Fin Tradify (Jun 2025 – Jan 2026) — 2 production Android apps on Google Play, 12 Compose screens, 18 REST APIs, about 15% fewer crashes. Lead of the CSI Development Team at VIT-AP.">
 
-<img src="assets/h-skills.svg" width="100%" alt="Skills universe">
+<img src="assets/title-skills.svg" width="100%" alt="Skills universe">
 
 <img src="assets/orbit.svg" width="100%" alt="Skills universe — Android: Kotlin, Compose, Hilt, Room, Flow. Backend: Spring Boot, Kafka, gRPC, PostgreSQL, JWT, API gateway. Cloud: AWS, Docker, Kubernetes, CDK, GitHub Actions, Linux.">
 
-<img src="assets/h-work.svg" width="100%" alt="Featured work">
+<img src="assets/title-work.svg" width="100%" alt="Featured work">
 
 <table>
   <tr>
@@ -69,7 +69,7 @@
 
 </details>
 
-<img src="assets/h-stats.svg" width="100%" alt="GitHub activity">
+<img src="assets/title-stats.svg" width="100%" alt="GitHub activity">
 
 <div align="center">
 
