@@ -7,30 +7,21 @@
 <a href="https://www.linkedin.com/in/kumar-harsh-raj"><img src="https://img.shields.io/badge/LinkedIn-kumar--harsh--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/Harsh_01815/"><img src="https://img.shields.io/badge/LeetCode-Harsh__01815-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 <a href="mailto:dev.kumarharshraj@gmail.com"><img src="https://img.shields.io/badge/Email-dev.kumarharshraj-E3B04B?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
-<img src="https://komarev.com/ghpvc/?username=Harsh181507&label=Profile%20views&color=E3B04B&style=for-the-badge" alt="Profile views">
+
+
+<img src="assets/marquee.svg" width="100%" alt="Kotlin, Jetpack Compose, Spring Boot, Kafka, gRPC, AWS, Docker, Kubernetes, PostgreSQL and more">
 
 </div>
 
-<br>
+<img src="assets/h-about.svg" width="100%" alt="About me">
 
-## ⚡ About me
+<img src="assets/terminal.svg" width="100%" alt="whoami: Kumar Harsh Raj, CS undergrad at VIT-AP, CGPA 8.11, class of 2027. Experience: SDE Intern at Fin Tradify (Jun 2025 – Jan 2026) — 2 production Android apps on Google Play, 12 Compose screens, 18 REST APIs, about 15% fewer crashes. Lead of the CSI Development Team at VIT-AP.">
 
-<img src="assets/terminal.svg" width="100%" alt="whoami: Kumar Harsh Raj, CS undergrad at VIT-AP, CGPA 8.11, class of 2027. Experience: SDE Intern at Fin Tradify (Jun 2025 – Jan 2026) — 2 production Android apps on Google Play, 12 Compose screens, 18 REST APIs, about 15% fewer crashes. Achievements: Polyversity Hackathon winner (All India), Lead of the CSI Development Team at VIT-AP.">
+<img src="assets/h-skills.svg" width="100%" alt="Skills universe">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 On the screen</h3>
-      Native Android with <b>Kotlin</b> and <b>Jetpack Compose</b> — MVVM, clean architecture, Hilt, Coroutines and Flow, Room for offline-first apps. Shipped to the Play Store and kept crash-free with Crashlytics, Sentry and LeakCanary.
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚙️ Behind the scenes</h3>
-      <b>Spring Boot</b> services that hold up under load — JWT security, PostgreSQL, Kafka event streams, gRPC between services, an API gateway, and AWS infrastructure as code with CDK on ECS Fargate.
-    </td>
-  </tr>
-</table>
+<img src="assets/orbit.svg" width="100%" alt="Skills universe — Android: Kotlin, Compose, Hilt, Room, Flow. Backend: Spring Boot, Kafka, gRPC, PostgreSQL, JWT, API gateway. Cloud: AWS, Docker, Kubernetes, CDK, GitHub Actions, Linux.">
 
-## 🚀 Featured work
+<img src="assets/h-work.svg" width="100%" alt="Featured work">
 
 <table>
   <tr>
@@ -47,7 +38,9 @@
   </tr>
 </table>
 
-## 🧰 Tech stack
+<details>
+<summary><b>🧰 Full tech stack</b></summary>
+<br>
 
 <table>
   <tr>
@@ -74,7 +67,9 @@
 
 <sub>Also: Jetpack Compose · Hilt · Retrofit · Room · Coroutines &amp; Flow · Spring Cloud Gateway · gRPC · JWT · AWS CDK · ECS Fargate · LocalStack · JUnit</sub>
 
-## 📈 GitHub activity
+</details>
+
+<img src="assets/h-stats.svg" width="100%" alt="GitHub activity">
 
 <div align="center">
 
